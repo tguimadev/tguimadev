@@ -23,7 +23,7 @@ Sou desenvolvedor focado na criação de **aplicações web interativas**, **aut
 
 ---
 
-### 🚀 Projeto Principal 
+### 🚀 Projeto Destaque 
 
 #### 📋 [Controle de Recibos de Materiais](https://github.com/tguimadev/controle-recibos-materiais)
 > Aplicação corporativa desenvolvida em Python e Streamlit com padrão *Glassmorphism*, numeração sequencial contínua, emissão de minutas timbradas padrão A4 com paginação automática e controle estrito de devolução de vias assinadas.
