@@ -13,7 +13,7 @@ Sou desenvolvedor focado na criação de **aplicações web interativas**, **aut
 
 ---
 
-### 🛠️ Tecnologias & Habilidades
+### 🛠️ Tecnologias e Habilidades
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -33,6 +33,6 @@ Sou desenvolvedor focado na criação de **aplicações web interativas**, **aut
 
 ---
 
-### 📫 Contato & Redes:
+### 📫 Contato e Redes:
 - 💼 **LinkedIn:** [linkedin.com/in/tguimadev](https://www.linkedin.com/in/tguimadev)
 - 🐙 **GitHub:** [github.com/tguimadev](https://github.com/tguimadev)
